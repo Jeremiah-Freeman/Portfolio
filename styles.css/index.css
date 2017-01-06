@@ -1,3 +1,38 @@
 h1 {
-  color: red;
+  font-family: baskerville;
+  color: grey;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.Bluelinklook {
+  color: #4973AB;
+}
+
+
+h2 {
+  font-family: baskerville;
+  color: grey;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: baskerville;
+  color: grey;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 25px;
+  font-weight: normal;
+}
+
+.greyfontlook {
+  font-family: baskerville;
+  color: grey;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  font-weight: normal;
 }
