@@ -1,4 +1,4 @@
-# Jeremiah's Portfolio Landing Page_
+# Jeremiah's Portfolio Landing Page
 
 #### Welcome to the Portfolio of Jeremiah Freeman, an independent project from Epicodus.  
 Please enjoy! (January, 6th, 2017)
