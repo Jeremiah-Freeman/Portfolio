@@ -1,31 +1,32 @@
-# _{Jeremiah's Portfolio Landing Page}_
+# _Jeremiah's Portfolio Landing Page_
 
-#### _{Welcome to the Portfolio of Jeremiah Freeman, an independent project from Epicodus.  Please enjoy! }, {Date of current version}_
+#### _Welcome to the Portfolio of Jeremiah Freeman, an independent project from Epicodus.  Please enjoy! }, {Date of current version_
 
-#### By _**{Jeremiah Freeman, Epicodus}**_
+#### By _**Jeremiah Bingham Freeman, Epicodus**_
 
 ## Description
 
-_{Deep within this project you will find five (5) specific things:
+_Deep within this project you will find five (4) specific things:
 
+####* Full name
+####* Beautiful image of me (feel free to download and share on social networks)
+####* List of 1st coding projects
+####* About Page
+         * list of contacts
 
-  
-* aalsdjalksjd
-
-
-
-
-
-
-  This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+ This is to display up-to-date and current projects.  Inside you will see links to HTML txt and .CSS styling sheets.  Developers please feel free to use my code in anyway that you wish.  There is just one requirement, you can do no harm with it.
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* Open web browser
+* Copy/paste this link - https://github.com/jaythinkshappiness/Portfolio.git
+* Near the middle of the page you will find:
+                  * styles.css (folder)
+                  * JeremiahFreeman.jpg
+                  * README.md (file)
+                  * Portfolio.html (file)
+* Click on any of them so view content
+* Enjoy
 
 _{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
 
