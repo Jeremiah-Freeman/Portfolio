@@ -15,8 +15,12 @@ h2 {
   color: grey;
   font-style: normal;
   font-weight: 500;
-  font-size: 20px;
+  font-size: 15px;
   font-weight: normal;
+}
+
+.panel-body {
+  background-color: #F7F7F7;
 }
 
 h3 {
@@ -26,6 +30,10 @@ h3 {
   font-weight: 500;
   font-size: 25px;
   font-weight: normal;
+  margin-left: 40px;
+}
+.background {
+  color: #D1D1D1;
 }
 
 .greyfontlook {
@@ -35,4 +43,47 @@ h3 {
   font-weight: 500;
   font-size: 16px;
   font-weight: normal;
+
+}
+
+.Please1 {
+  font-size: 100%;
+}
+.upper {
+  margin-left: 50px;
+  margin-right: 67%;
+
+}
+
+.buffer {
+  padding-top: 5px;
+}
+
+.upper2 {
+  margin-left: 50px;
+  margin-right: 50%;
+}
+
+.float {
+  margin-left: 100px;
+  margin-right: 54px;
+}
+
+.floater {
+  margin-left: 287px;
+  margin-right: 54px;
+}
+
+.currentpadding {
+  padding-top: 25px;
+}
+
+img.testleft {
+  float: left;
+  margin-right: 40px;
+  margin-left: 60px;
+}
+
+.happy {
+  text-align: center;
 }
