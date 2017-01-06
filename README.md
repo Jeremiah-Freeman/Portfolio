@@ -22,13 +22,11 @@ Deep within this project you will find five (4) specific things:
 * Near the middle of the page you will find:
 
                   * styles.css (folder)
-                  * JeremiahFreeman.jpg
+                  * JeremiahFreeman.jpg (image)
                   * README.md (file)
                   * Portfolio.html (file)
 * Click on any of them so view content
 * Enjoy
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
 
 ## Known Bugs
 
@@ -40,8 +38,9 @@ If you did find Bugs or by chance you would like to comment, complain, or compli
 
 ## Technologies Used
 
-
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+* HTML
+* CSS
+* Human Body
 
 ### License
 
