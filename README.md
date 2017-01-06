@@ -11,9 +11,9 @@ Please enjoy! (January, 6th, 2017)
 
 Deep within this project you will find five (4) specific things:
 
-               ####* Full name
-               ####* Beautiful image of me (share openly if you like)
-               ####* List of 1st coding projects
+               * Full name
+               * Beautiful image of me (share openly if you like)
+               * List of 1st coding projects (see links)
 ####* About Page
 
  This is to display up-to-date and current projects.  Inside you will see links to HTML txt and .CSS styling sheets.  Developers please feel free to use my code in anyway that you wish.  There is just one requirement, you can do no harm with it.
