@@ -12,7 +12,7 @@ Please enjoy! (January, 6th, 2017)
 Deep within this project you will find five (4) specific things:
 
                ####* Full name
-               ####* Beautiful image of me (feel free to download and share on     social networks)
+               ####* Beautiful image of me (share openly if you like)
                ####* List of 1st coding projects
 ####* About Page
 
