@@ -9,7 +9,7 @@ Please enjoy! (January, 6th, 2017)
 
 ## Description
 
-Deep within this project you will find five (4) specific things:
+Within this project you will find five (4) specific things:
 
                * Full name
                * Beautiful image of me (share openly if you like)
@@ -24,7 +24,7 @@ Deep within this project you will find five (4) specific things:
 * Copy/paste this link - https://github.com/jaythinkshappiness/Portfolio.git
 * Near the middle of the page you will find:
 
-                  * styles.css (folder)
+                  * CSS (folder)
                   * JeremiahFreeman.jpg (image)
                   * README.md (file)
                   * Portfolio.html (file)
