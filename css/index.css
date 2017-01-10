@@ -9,7 +9,6 @@ h1 {
   color: #4973AB;
 }
 
-
 h2 {
   font-family: baskerville;
   color: grey;
@@ -32,6 +31,7 @@ h3 {
   font-weight: normal;
   margin-left: 40px;
 }
+
 .background {
   color: #D1D1D1;
   padding-top: 18px;
@@ -41,6 +41,7 @@ h3 {
 .floating {
   margin-left: 200pf;
 }
+
 .greyfontlook {
   font-family: baskerville;
   color: grey;
@@ -48,17 +49,15 @@ h3 {
   font-weight: 500;
   font-size: 16px;
   font-weight: normal;
-
-
 }
 
 .Please1 {
   font-size: 100%;
 }
+
 .upper {
   margin-left: 50px;
   margin-right: 67%;
-
 }
 
 .buffer {

@@ -21,7 +21,8 @@ Within this project you will find five (4) specific things:
 ## Setup/Installation Requirements
 
 * Open web browser
-* Copy/paste this link - https://github.com/jaythinkshappiness/Portfolio.git
+* Clone this, "https://github.com/jaythinkshappiness/Portfolio/tree/gh-pages"
+  repository, and then open 'portfolio' and/or 'index.html' in the browser
 * Near the middle of the page you will find:
 
                   * CSS (folder)
